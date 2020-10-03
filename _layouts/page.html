@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="row">
+    <div class="col l7">
+        <div class="row">
+            <div class="col">
+                {% include sections/about.html %}        
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+  <div id="page">
+<!--     <header class="page-header">
+      <h2>{{ page.title }}</h2>
+    </header> -->
+
+    <article class="page-content">
+      {{ content }}
+    </article>
+
+
+  </div><!-- end page content -->
+
+
+  {% if site.owner.disqus-shortname and page.comments == true %}
+  <div id="disqus_thread"></div>
+  {% include disqus.html %}
+  {% endif %}

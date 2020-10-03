@@ -1,0 +1,68 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Guillermo Garcia-Hernando Academic Website
+email: guillermo@nianticlabs.com
+description: 
+url: https://guiggh.github.io # the base hostname & protocol for your site
+keywords: ["machine learning", "computer vision", "reinforcement learning", "deep learning", "artificial intelligence"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/London
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Guillermo Garcia-Hernando
+  avatar: gui.jpeg
+  job: #"Research Scientist"
+  bio: "Research Scientist at Niantic, Inc."
+  email: guillermo@nianticlabs.com
+  disqus-shortname: 
+  twitter: gui_ggh #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-47703339-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: guiggh #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: guillermo-gh #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  telegram: #username
+  scholar: chX1esoAAAAJ

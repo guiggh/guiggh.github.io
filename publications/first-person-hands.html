@@ -1,0 +1,42 @@
+---
+layout: page
+title:  First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations
+permalink: /publications/first-person-hands/
+exclude: true
+---
+<style>
+div.tex {
+    width:800px;
+    margin: auto;
+}
+
+div.abstract {
+    width:600px;
+    margin: auto;
+}
+
+
+</style>
+
+<center><h3>First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations </h3>
+<h4>Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim. CVPR 2018.</h4>
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U5gleNWjz44?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
+<div class = tex><p><h4> Abstract </h4>
+In this work we study the use of 3D hand poses to recognize first-person dynamic hand actions interacting with 3D objects. Towards this goal, we collected RGB-D video sequences comprised of more than 100K frames of 45 daily hand action categories, involving 26 different objects in several hand configurations. To obtain hand pose annotations, we used our own mo-cap system that automatically infers the 3D location of each of the 21 joints of a hand model via 6 magnetic sensors and inverse kinematics. Additionally, we recorded the 6D object poses and provide 3D object models for a subset of hand-object interaction sequences. To the best of our knowledge, this is the first benchmark that enables the study of first-person hand actions with the use of 3D hand poses. We present an extensive experimental evaluation of RGB-D and pose-based action recognition by 18 baselines/state-of-the-art approaches. The impact of using appearance features, poses, and their combinations are measured, and the different training/testing protocols are evaluated. Finally, we assess how ready the 3D hand pose estimation field is when hands are severely occluded by objects in egocentric views and its influence on action recognition. From the results, we see clear benefits of using hand pose as a cue for action recognition compared to other data modalities. Our dataset and experiments can be of interest to communities of 3D hand pose estimation, 6D object pose, and robotics as well as action recognition.</p></div>
+<center>
+    <h4><a href="https://arxiv.org/abs/1704.02463"  target="_blank"> Paper <i class="fa fa-file"></i></a></h4> 
+    <h4><a href="https://goo.gl/forms/FIsXpYVIUov0j7Wv2"  target="_blank"> Dataset download <i class="fa fa-download "></i></a></h4>
+    <h4><a href="https://github.com/guiggh/hand_pose_action"  target="_blank"> Code and instructions <i class="fa fa-github "></i></a></h4>
+</center>
+
+<div class = tex><h4> Citation </h4>{% highlight tex%}
+@InProceedings{FirstPersonAction_CVPR2018,
+  title={First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations},
+  author={Garcia-Hernando, Guillermo and Yuan, Shanxin and Baek, Seungryul and Kim, Tae-Kyun}
+  booktitle = {Proceedings of Computer Vision and Pattern Recognition ({CVPR})},
+  year = {2018}
+}{% endhighlight %}</div>
+
+

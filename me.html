@@ -1,0 +1,37 @@
+---
+layout: page
+title:  Guillermo Garcia-Hernando
+permalink: /
+---
+<h3>Selected publications</h3>
+<div class="publications">
+  <div class="timeline" id="timeline">
+    {% for publication in site.data.index.publications %}
+    {% assign next_i = forloop.index0 | plus: 1 %}
+    {% assign prev_i = forloop.index0 | minus: 1 %}
+    <ul>
+    <li>
+   	     <p style="margin: 0">{{ publication.title }}</p>
+   	     <p style="margin: 0">{{ publication.authors  }}</p>
+         <p style="margin: 0">{{ publication.venue }} {{ publication.year }} {{ publication.comments }}</p>
+         {% if publication.paper %}
+         <a href=" {{publication.paper}} "><i class="fa fa-fw fa-file-o"></i>Paper</a>
+         {% endif %}
+         {% if publication.paper_local %}
+         <a href=" {{ site.url }}/download/{{publication.paper_local}} "><i class="fa fa-fw fa-file-o"></i>Paper</a>
+         {% endif %}
+         {% if publication.web %}
+         <a href="{{ publication.web}} "><i class="fa fa-fw fa-home"></i>Project</a>
+         {% endif %}
+         {% if publication.dataset %}
+         <a href="{{ publication.dataset}} "><i class="fa fa-fw fa-download"></i>Dataset</a>
+         {% endif %}
+
+</li>
+</ul>
+
+    {% endfor %}
+
+
+  </div>
+  </div>

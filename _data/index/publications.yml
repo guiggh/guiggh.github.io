@@ -1,0 +1,85 @@
+- title: "Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning"
+  authors: "<b>Guillermo Garcia-Hernando</b>, Edward Johns and Tae-Kyun Kim."
+  venue:  "IROS"
+  year: 2020
+  comments: 
+  paper: https://arxiv.org/pdf/2008.03285.pdf
+  web: https://sites.google.com/view/dexres/
+  dataset: 
+- title: "Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings"
+  authors: "Anita Rau, <b>Guillermo Garcia-Hernando</b>, Danail Stoyanov, Gabriel J. Brostow and Daniyar Turmukhambetov."
+  venue:  "ECCV"
+  year: 2020
+  comments: <b>(spotlight)</b>
+  paper: https://arxiv.org/pdf/2008.05785.pdf
+  web: https://github.com/nianticlabs/image-box-overlap
+  dataset: 
+- title: "Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images"
+  authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b>, Anil Armagan and Tae-Kyun Kim"
+  venue:  "3DV"
+  year: 2020
+  comments: "<b>(oral)</b>"
+  paper: 
+  web: 
+  dataset:    
+- title: "Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep Reinforcement Learning"
+  authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
+  venue:  "IROS"
+  year: 2020
+  comments: 
+  paper: https://arxiv.org/pdf/1910.08811.pdf
+  web: 
+  dataset: 
+- title: "First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations"
+  authors: "<b>Guillermo Garcia-Hernando</b>, Shanxin Yuan, Seungryul Baek and Tae-Kyun Kim."
+  venue:  "CVPR"
+  year: 2018
+  comments: 
+  paper: https://arxiv.org/abs/1704.02463
+  web: https://guiggh.github.io/publications/first-person-hands/
+  dataset: https://github.com/guiggh/hand_pose_action
+- title: "Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals"
+  authors: "Shanxin Yuan, <b>Guillermo Garcia-Hernando</b>, Bjorn Stenger, Tae-Kyun Kim et al."
+  venue:  "CVPR"
+  year: 2018
+  comments: <b>(spotlight)</b>
+  paper: https://arxiv.org/abs/1712.03917
+  dataset: 
+  web: http://icvl.ee.ic.ac.uk/hands17/challenge/
+- title: "Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation"
+  authors: "Dafni Antotsiou, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
+  venue:  "ECCV"
+  year: 2018
+  comments: (workshop)
+  paper: https://arxiv.org/pdf/1810.01845.pdf
+  web: https://daphneantotsiou.github.io/task-oriented-retargeting.html
+  dataset: 
+- title: "Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection"
+  authors: "<b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
+  venue:  "CVPR"
+  year: 2017
+  paper: https://arxiv.org/abs/1607.02737
+  web:
+- title: "Transition Hough Forest for Trajectory-based Action Recognition"
+  authors: "<b>Guillermo Garcia-Hernando</b>, Hyung Jin Chang, Ismael Serrano, Oscar Deniz and Tae-Kyun Kim."
+  venue:  "WACV"
+  year: 2016
+  comments: 
+  paper_local: wacv2016.pdf
+  web:    
+  dataset: https://juicer.ee.imperial.ac.uk:8443/sharing/4AXdegoXY    
+- title: "Spatio-Temporal Hough Forest for Efficient Detection-Localisation-Recognition of Fingerwriting in Egocentric Camera"
+  authors: "Hyung Jin Chang*, <b>Guillermo Garcia-Hernando</b>*, Danhang Tang and Tae-Kyun Kim."
+  venue:  "CVIU"
+  year: 2016
+  comments: 
+  paper_local: cviu2016.pdf
+  web:
+  dataset: https://juicer.ee.imperial.ac.uk:8443/sharing/4AXdegoXY
+- title: "Understanding egocentric human actions with temporal decision forests"
+  authors: "<b>Guillermo Garcia-Hernando</b>"
+  venue:  "Imperial College London, Ph.D. Thesis."
+  year: 2017
+  comments: 
+  paper: https://spiral.imperial.ac.uk/bitstream/10044/1/63825/1/Garcia-Hernando-G-2017-PhD-Thesis.pdf  
+  dataset: 
