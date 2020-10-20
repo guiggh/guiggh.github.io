@@ -1,11 +1,4 @@
-- title: "Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning"
-  authors: "<b>Guillermo Garcia-Hernando</b>, Edward Johns and Tae-Kyun Kim."
-  venue:  "IROS"
-  year: 2020
-  comments: 
-  paper: https://arxiv.org/pdf/2008.03285.pdf
-  web: https://sites.google.com/view/dexres/
-  dataset: 
+
 - title: "Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings"
   authors: "Anita Rau, <b>Guillermo Garcia-Hernando</b>, Danail Stoyanov, Gabriel J. Brostow and Daniyar Turmukhambetov."
   venue:  "ECCV"
@@ -14,14 +7,30 @@
   paper: https://arxiv.org/pdf/2008.05785.pdf
   web: https://github.com/nianticlabs/image-box-overlap
   dataset: 
+- title: "Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction"
+  authors: "Anil Armagan, <b>Guillermo Garcia-Hernando</b>, Seungryul Baek, Vincent Lepetit, Tae-Kyun Kim et al."
+  venue:  "ECCV"
+  year: 2020
+  comments: 
+  paper: https://arxiv.org/pdf/2003.13764.pdf
+  web: https://github.com/anilarmagan/HANDS19-Challenge-Toolbox
+  dataset: https://sites.google.com/view/hands2019/challenge    
 - title: "Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images"
   authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b>, Anil Armagan and Tae-Kyun Kim"
   venue:  "3DV"
   year: 2020
   comments: "<b>(oral)</b>"
-  paper: 
+  paper: https://arxiv.org/abs/2003.12344
   web: 
-  dataset:    
+  dataset:  
+- title: "Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning"
+  authors: "<b>Guillermo Garcia-Hernando</b>, Edward Johns and Tae-Kyun Kim."
+  venue:  "IROS"
+  year: 2020
+  comments: 
+  paper: https://arxiv.org/pdf/2008.03285.pdf
+  web: https://sites.google.com/view/dexres/
+  dataset: 
 - title: "Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep Reinforcement Learning"
   authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
   venue:  "IROS"
@@ -29,7 +38,7 @@
   comments: 
   paper: https://arxiv.org/pdf/1910.08811.pdf
   web: 
-  dataset: 
+  dataset:   
 - title: "First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations"
   authors: "<b>Guillermo Garcia-Hernando</b>, Shanxin Yuan, Seungryul Baek and Tae-Kyun Kim."
   venue:  "CVPR"
