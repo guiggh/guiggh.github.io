@@ -86,40 +86,40 @@
   paper: https://arxiv.org/abs/1712.03917
   dataset: 
   web: http://icvl.ee.ic.ac.uk/hands17/challenge/
-- title: "Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation"
-  authors: "Dafni Antotsiou, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
-  venue:  "ECCV"
-  year: 2018
-  comments: (workshop)
-  paper: https://arxiv.org/pdf/1810.01845.pdf
-  web: https://daphneantotsiou.github.io/task-oriented-retargeting.html
-  dataset: 
+#- title: "Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation"
+#  authors: "Dafni Antotsiou, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
+#  venue:  "ECCV"
+#  year: 2018
+#  comments: (workshop)
+#  paper: https://arxiv.org/pdf/1810.01845.pdf
+#  web: https://daphneantotsiou.github.io/task-oriented-retargeting.html
+#  dataset:
 - title: "Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection"
   authors: "<b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
   venue:  "CVPR"
   year: 2017
   paper: https://arxiv.org/abs/1607.02737
   web:
-- title: "Transition Hough Forest for Trajectory-based Action Recognition"
-  authors: "<b>Guillermo Garcia-Hernando</b>, Hyung Jin Chang, Ismael Serrano, Oscar Deniz and Tae-Kyun Kim."
-  venue:  "WACV"
-  year: 2016
-  comments: 
-  paper_local: wacv2016.pdf
-  web:    
-  dataset: https://juicer.ee.imperial.ac.uk:8443/sharing/4AXdegoXY    
-- title: "Spatio-Temporal Hough Forest for Efficient Detection-Localisation-Recognition of Fingerwriting in Egocentric Camera"
-  authors: "Hyung Jin Chang*, <b>Guillermo Garcia-Hernando</b>*, Danhang Tang and Tae-Kyun Kim."
-  venue:  "CVIU"
-  year: 2016
-  comments: 
-  paper_local: cviu2016.pdf
-  web:
-  dataset: https://juicer.ee.imperial.ac.uk:8443/sharing/4AXdegoXY
-- title: "Understanding egocentric human actions with temporal decision forests"
-  authors: "<b>Guillermo Garcia-Hernando</b>"
-  venue:  "Imperial College London, Ph.D. Thesis."
-  year: 2017
-  comments: 
-  paper: https://spiral.imperial.ac.uk/bitstream/10044/1/63825/1/Garcia-Hernando-G-2017-PhD-Thesis.pdf  
-  dataset: 
+#- title: "Transition Hough Forest for Trajectory-based Action Recognition"
+#  authors: "<b>Guillermo Garcia-Hernando</b>, Hyung Jin Chang, Ismael Serrano, Oscar Deniz and Tae-Kyun Kim."
+#  venue:  "WACV"
+#  year: 2016
+#  comments:
+#  paper_local: wacv2016.pdf
+#  web:
+#  dataset: https://juicer.ee.imperial.ac.uk:8443/sharing/4AXdegoXY
+#- title: "Spatio-Temporal Hough Forest for Efficient Detection-Localisation-Recognition of Fingerwriting in Egocentric Camera"
+#  authors: "Hyung Jin Chang*, <b>Guillermo Garcia-Hernando</b>*, Danhang Tang and Tae-Kyun Kim."
+#  venue:  "CVIU"
+#  year: 2016
+#  comments:
+#  paper_local: cviu2016.pdf
+#  web:
+#  dataset: https://juicer.ee.imperial.ac.uk:8443/sharing/4AXdegoXY
+#- title: "Understanding egocentric human actions with temporal decision forests"
+#  authors: "<b>Guillermo Garcia-Hernando</b>"
+#  venue:  "Imperial College London, Ph.D. Thesis."
+#  year: 2017
+#  comments:
+#  paper: https://spiral.imperial.ac.uk/bitstream/10044/1/63825/1/Garcia-Hernando-G-2017-PhD-Thesis.pdf
+#  dataset:
