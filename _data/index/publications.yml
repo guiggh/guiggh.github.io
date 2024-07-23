@@ -1,4 +1,35 @@
-
+- title: "HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning"
+  authors: "Eugene Valassakis and <b>Guillermo Garcia-Hernando</b>"
+  venue:  "ECCV"
+  year: 2024
+  comments:
+  paper: https://arxiv.org/abs/2407.15844v1
+  web: https://nianticlabs.github.io/handdgp/
+  dataset:
+- title: "DoubleTake: Geometry Guided Depth Estimation"
+  authors: "Mohamed Sayed, Filippo Aleotti, Jamie Watson, Zawar Qureshi, <b>Guillermo Garcia-Hernando</b>, Gabriel Brostow, Sara Vicente, Michael Firman"
+  venue:  "ECCV"
+  year: 2024
+  comments:
+  paper: https://arxiv.org/abs/2406.18387
+  web: https://nianticlabs.github.io/doubletake/
+  dataset:
+- title: "Removing objects from neural radiance fields"
+  authors: "Silvan Weder, <b>Guillermo Garcia-Hernando</b>, Aron Monszpart, Marc Pollefeys, Gabriel J Brostow, Michael Firman, Sara Vicente"
+  venue:  "CVPR"
+  year: 2023
+  comments:
+  paper: https://arxiv.org/abs/2212.11966
+  web: https://nianticlabs.github.io/nerf-object-removal/
+  dataset: https://github.com/nianticlabs/nerf-object-removal/#download-dataset
+- title: "Map-free visual relocalization: Metric pose relative to a single image"
+  authors: "Eduardo Arnold, Jamie Wynn, Sara Vicente, <b>Guillermo Garcia-Hernando</b>, Aron Monszpart, Victor Prisacariu, Daniyar Turmukhambetov, Eric Brachmann"
+  venue:  "ECCV"
+  year: 2022
+  comments:
+  paper: https://arxiv.org/abs/2210.05494
+  web: https://github.com/nianticlabs/map-free-reloc
+  dataset: https://research.nianticlabs.com/mapfree-reloc-benchmark
 - title: "Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings"
   authors: "Anita Rau, <b>Guillermo Garcia-Hernando</b>, Danail Stoyanov, Gabriel J. Brostow and Daniyar Turmukhambetov."
   venue:  "ECCV"
