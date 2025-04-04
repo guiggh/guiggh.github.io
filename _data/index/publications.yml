@@ -1,3 +1,11 @@
+- title: "MVSAnywhere: Zero Shot Multi-View Stereo"
+  authors: "Sergio Izquierdo, Mohamed Sayed, Michael Firman, <b>Guillermo Garcia-Hernando</b>, Daniyar Turmukhambetov, Javier Civera, Oisin Mac Aodha, Gabriel Brostow, Jamie Watson"
+  venue:  "CVPR"
+  year: 2025
+  comments:
+  paper: https://nianticlabs.github.io/mvsanywhere/resources/MVSAnywhere.pdf
+  web: https://nianticlabs.github.io/mvsanywhere/
+  dataset:
 - title: "HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning"
   authors: "Eugene Valassakis and <b>Guillermo Garcia-Hernando</b>"
   venue:  "ECCV"
