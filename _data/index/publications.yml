@@ -1,5 +1,13 @@
+- title: "https://github.com/nianticlabs/placeit3d"
+  authors: "A. Abdelreheem, F. Aleotti, J. Watson, Z. Qureshi, A. Eldesokey, P. Wonka, G. Brostow, S. Vicente, <b>G. Garcia-Hernando</b>"
+  venue:  "ICCV"
+  year: 2025
+  comments:
+  paper: https://arxiv.org/abs/2505.05288
+  web: https://nianticlabs.github.io/placeit3d/
+  dataset:
 - title: "MVSAnywhere: Zero Shot Multi-View Stereo"
-  authors: "Sergio Izquierdo, Mohamed Sayed, Michael Firman, <b>Guillermo Garcia-Hernando</b>, Daniyar Turmukhambetov, Javier Civera, Oisin Mac Aodha, Gabriel Brostow, Jamie Watson"
+  authors: "S. Izquierdo, M. Sayed, M. Firman, <b>G. Garcia-Hernando</b>, D. Turmukhambetov, J. Civera, O. Mac Aodha, G. Brostow, J. Watson"
   venue:  "CVPR"
   year: 2025
   comments:
@@ -7,7 +15,7 @@
   web: https://nianticlabs.github.io/mvsanywhere/
   dataset:
 - title: "HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning"
-  authors: "Eugene Valassakis and <b>Guillermo Garcia-Hernando</b>"
+  authors: "E. Valassakis and <b>G. Garcia-Hernando</b>"
   venue:  "ECCV"
   year: 2024
   comments:
@@ -15,7 +23,7 @@
   web: https://nianticlabs.github.io/handdgp/
   dataset:
 - title: "DoubleTake: Geometry Guided Depth Estimation"
-  authors: "Mohamed Sayed, Filippo Aleotti, Jamie Watson, Zawar Qureshi, <b>Guillermo Garcia-Hernando</b>, Gabriel Brostow, Sara Vicente, Michael Firman"
+  authors: "M. Sayed, F. Aleotti, J. Watson, Z. Qureshi, <b>G. Garcia-Hernando</b>, G. Brostow, S. Vicente, M. Firman"
   venue:  "ECCV"
   year: 2024
   comments:
@@ -23,7 +31,7 @@
   web: https://nianticlabs.github.io/doubletake/
   dataset:
 - title: "Removing objects from neural radiance fields"
-  authors: "Silvan Weder, <b>Guillermo Garcia-Hernando</b>, Aron Monszpart, Marc Pollefeys, Gabriel J Brostow, Michael Firman, Sara Vicente"
+  authors: "S. Weder, <b>G. Garcia-Hernando</b>, A. Monszpart, M. Pollefeys, G. Brostow, M. Firman, S. Vicente"
   venue:  "CVPR"
   year: 2023
   comments:
@@ -31,7 +39,7 @@
   web: https://nianticlabs.github.io/nerf-object-removal/
   dataset: https://github.com/nianticlabs/nerf-object-removal/#download-dataset
 - title: "Map-free visual relocalization: Metric pose relative to a single image"
-  authors: "Eduardo Arnold, Jamie Wynn, Sara Vicente, <b>Guillermo Garcia-Hernando</b>, Aron Monszpart, Victor Prisacariu, Daniyar Turmukhambetov, Eric Brachmann"
+  authors: "E. Arnold, J. Wynn, S. Vicente, <b>G. Garcia-Hernando</b>, A. Monszpart, V. Prisacariu, D. Turmukhambetov, E. Brachmann"
   venue:  "ECCV"
   year: 2022
   comments:
@@ -39,61 +47,61 @@
   web: https://github.com/nianticlabs/map-free-reloc
   dataset: https://research.nianticlabs.com/mapfree-reloc-benchmark
 - title: "Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings"
-  authors: "Anita Rau, <b>Guillermo Garcia-Hernando</b>, Danail Stoyanov, Gabriel J. Brostow and Daniyar Turmukhambetov."
+  authors: "A. Rau, <b>G. Garcia-Hernando</b>, D. Stoyanov, G. Brostow and D. Turmukhambetov."
   venue:  "ECCV"
   year: 2020
   comments: <b>(spotlight)</b>
   paper: https://arxiv.org/pdf/2008.05785.pdf
   web: https://github.com/nianticlabs/image-box-overlap
   dataset: 
-- title: "Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction"
-  authors: "Anil Armagan, <b>Guillermo Garcia-Hernando</b>, Seungryul Baek, Vincent Lepetit, Tae-Kyun Kim et al."
-  venue:  "ECCV"
-  year: 2020
-  comments: 
-  paper: https://arxiv.org/pdf/2003.13764.pdf
-  web: https://github.com/anilarmagan/HANDS19-Challenge-Toolbox
-  dataset: https://sites.google.com/view/hands2019/challenge    
-- title: "Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images"
-  authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b>, Anil Armagan and Tae-Kyun Kim"
-  venue:  "3DV"
-  year: 2020
-  comments: "<b>(oral)</b>"
-  paper: https://arxiv.org/abs/2003.12344
-  web: 
-  dataset:  
+# - title: "Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction"
+#   authors: "Anil Armagan, <b>Guillermo Garcia-Hernando</b>, Seungryul Baek, Vincent Lepetit, Tae-Kyun Kim et al."
+#   venue:  "ECCV"
+#   year: 2020
+#   comments: 
+#   paper: https://arxiv.org/pdf/2003.13764.pdf
+#   web: https://github.com/anilarmagan/HANDS19-Challenge-Toolbox
+#   dataset: https://sites.google.com/view/hands2019/challenge    
+# - title: "Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images"
+#   authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b>, Anil Armagan and Tae-Kyun Kim"
+#   venue:  "3DV"
+#   year: 2020
+#   comments: "<b>(oral)</b>"
+#   paper: https://arxiv.org/abs/2003.12344
+#   web: 
+#   dataset:  
 - title: "Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning"
-  authors: "<b>Guillermo Garcia-Hernando</b>, Edward Johns and Tae-Kyun Kim."
+  authors: "<b>G. Garcia-Hernando</b>, E. Johns and T-K. Kim."
   venue:  "IROS"
   year: 2020
   comments: 
   paper: https://arxiv.org/pdf/2008.03285.pdf
   web: https://sites.google.com/view/dexres/
   dataset: 
-- title: "Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep Reinforcement Learning"
-  authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
-  venue:  "IROS"
-  year: 2020
-  comments: 
-  paper: https://arxiv.org/pdf/1910.08811.pdf
-  web: 
-  dataset:   
+# - title: "Active 6D Multi-Object Pose Estimation in Cluttered Scenarios with Deep Reinforcement Learning"
+#   authors: "Juil Sock, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
+#   venue:  "IROS"
+#   year: 2020
+#   comments: 
+#   paper: https://arxiv.org/pdf/1910.08811.pdf
+#   web: 
+#   dataset:   
 - title: "First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations"
-  authors: "<b>Guillermo Garcia-Hernando</b>, Shanxin Yuan, Seungryul Baek and Tae-Kyun Kim."
+  authors: "<b>G. Garcia-Hernando</b>, S. Yuan, S. Baek and T-K. Kim."
   venue:  "CVPR"
   year: 2018
   comments: 
   paper: https://arxiv.org/abs/1704.02463
   web: https://guiggh.github.io/publications/first-person-hands/
   dataset: https://github.com/guiggh/hand_pose_action
-- title: "Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals"
-  authors: "Shanxin Yuan, <b>Guillermo Garcia-Hernando</b>, Bjorn Stenger, Tae-Kyun Kim et al."
-  venue:  "CVPR"
-  year: 2018
-  comments: <b>(spotlight)</b>
-  paper: https://arxiv.org/abs/1712.03917
-  dataset: 
-  web: http://icvl.ee.ic.ac.uk/hands17/challenge/
+# - title: "Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals"
+#   authors: "S. Yuan, <b>Guillermo Garcia-Hernando</b>, Bjorn Stenger, Tae-Kyun Kim et al."
+#   venue:  "CVPR"
+#   year: 2018
+#   comments: <b>(spotlight)</b>
+#   paper: https://arxiv.org/abs/1712.03917
+#   dataset: 
+#   web: http://icvl.ee.ic.ac.uk/hands17/challenge/
 #- title: "Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation"
 #  authors: "Dafni Antotsiou, <b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
 #  venue:  "ECCV"
@@ -103,7 +111,7 @@
 #  web: https://daphneantotsiou.github.io/task-oriented-retargeting.html
 #  dataset:
 - title: "Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection"
-  authors: "<b>Guillermo Garcia-Hernando</b> and Tae-Kyun Kim."
+  authors: "<b>G. Garcia-Hernando</b> and T-K. Kim."
   venue:  "CVPR"
   year: 2017
   paper: https://arxiv.org/abs/1607.02737
